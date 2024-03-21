@@ -1,10 +1,6 @@
-<h1>Salom<h1>
-
-
-<h2>Salom<h2>
-
-
-<h6>Salom<h6>
+<h1>Salom</h1>
+<h2>Salom</h2>
+<h6>Salom</h6>
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
